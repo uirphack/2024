@@ -44,7 +44,7 @@ Anything else you can think of, so long as it is focused on data.
 
 # Schedule
 
-## Wednesday, July 26th 2024
+## Wednesday, June 26th 2024
 
 - **8:30 AM**: Hackathon Prompt Instructions @ EnterpriseWorks Atrium
 - **9:00 AM**: Hacking Begins @ various UIRP locations
@@ -52,7 +52,7 @@ Anything else you can think of, so long as it is focused on data.
 - **3:00 PM - 4:00 PM**: Mentor Power Hour @ EnterpriseWorks Atrium
 - **10:00 PM**: **Submission Deadline**
 
-## Thursday, July 27th 2024
+## Thursday, June 27th 2024
 
 - **10:00 AM**: Finalists announced via email
 - **12:00 PM - 12:45 PM**: Finalist presentations @ EnterpriseWorks Atrium; open to the public
