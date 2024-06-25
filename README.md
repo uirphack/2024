@@ -1,3 +1,6 @@
+[discord_link]: https://discord.gg/UsFXMVsQ
+[submission_link]: https://forms.gle/mfe7GUAXTiA8gAiq6
+
 # 2024 Research Park Hackathon
 
 Welcome to the 2024 Research Park Hackathon! This year's prompt is all about data. Bring your favorite dataset or api and get to work.
@@ -49,8 +52,7 @@ Anything else you can think of, so long as it is focused on data.
 - **8:30 AM**: Hackathon Prompt Instructions @ EnterpriseWorks Atrium
 - **9:00 AM**: Hacking Begins @ various UIRP locations
 - **12:00 PM - 1:00 PM**: Lunch provided @ EnterpriseWorks Atrium
-- **3:00 PM - 4:00 PM**: Mentor Power Hour @ EnterpriseWorks Atrium
-- **10:00 PM**: **Submission Deadline**
+- **11:59 PM**: **Submission Deadline**
 
 ## Thursday, June 27th 2024
 
