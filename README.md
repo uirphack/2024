@@ -124,8 +124,9 @@ Teams selected as finalists (see schedule) will be required to do a live presena
 ## Judges
 
 - **[Matt Ahrens](https://www.linkedin.com/in/matt-ahrens-b62984/)**: _Data Science_ - NVIDIA
+- **[Bryan Goode](https://www.linkedin.com/in/bdgoode/)**: _Talent Management_ - University of Illinois Research Park
 - **[Jarai Carter, PhD](https://www.linkedin.com/in/jaraicarter/)**: _Data Science_ - John Deere
-- **[Bryan Goode](https://www.linkedin.com/in/bdgoode/)**: _Non-Tech Representative_ - University of Illinois Research Park
+- **[Dustin Mayfield-Jones](https://www.linkedin.com/in/dustin-mayfield-jones-77432a40/)**: _Laboratory and Facilities Management_ - University of Illinois Research Park
 
 ## Pillars
 
