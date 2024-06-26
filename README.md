@@ -79,7 +79,7 @@ Anything else you can think of, so long as it is focused on data.
 
 # Submissions
 
-When ready, submit your projects [here][submission_link].
+When ready, submit projects [here][submission_link].
 
 ## Requirements
 
