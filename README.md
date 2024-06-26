@@ -19,8 +19,6 @@ This year's prompt is all about data. Bring your favorite dataset or api and get
 
 ## What to Make
 
-Some things you could make:
-
 ### Front-End Applcation
 
 Build a front-end application that consumes a static dataset or a live api. Allow users to interact with your data.
