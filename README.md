@@ -13,6 +13,22 @@ Welcome to the 2024 Research Park Hackathon! Here are some helpful links:
 
 This year's prompt is all about data. Bring your favorite dataset or api and get to work.
 
+# Submissions
+
+| Project Name                     | Company Name(s)   | GitHub Repository                                                                                                      | YouTube Video                                                                                                                |
+| -------------------------------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| PsychAI                          | AGCO Corporation  | [https://github.com/BhavikaBhutani/Hackathon-24](https://github.com/BhavikaBhutani/Hackathon-24)                       | [https://youtu.be/hk-HNtIegWM](https://youtu.be/hk-HNtIegWM)                                                                 |
+| Playlistify                      | State Farm        | [https://github.com/ChideraIbe123/Spotify-Public-Playlists](https://github.com/ChideraIbe123/Spotify-Public-Playlists) | NA                                                                                                                           |
+| Wandertunes                      | UIRP/EW           | [https://github.com/sujeet-bhalerao/uirp-hackathon](https://github.com/sujeet-bhalerao/uirp-hackathon)                 | [https://youtu.be/dySFHz29ilY](https://youtu.be/dySFHz29ilY)                                                                 |
+| WeedInator                       | AGCO              | [https://github.com/TanviKulk/UIRP_Hackathon_2024](https://github.com/TanviKulk/UIRP_Hackathon_2024)                   | [https://youtu.be/IJWQz-u4utU](https://youtu.be/IJWQz-u4utU)                                                                 |
+| BeachWatch                       | Brunswick         | [https://github.com/aditi135/rphackathon](https://github.com/aditi135/rphackathon)                                     | [https://youtu.be/tRjiSXGdlJU?si=vi85VE54LWrdhckh](https://youtu.be/tRjiSXGdlJU?si=vi85VE54LWrdhckh)                         |
+| Rivian Hill Climb                | Rivian            | [https://github.com/MeanPaper/UIRP-Rivian-R1-Hackathon](https://github.com/MeanPaper/UIRP-Rivian-R1-Hackathon)         | [https://youtu.be/ouG6OJ9qJG8](https://youtu.be/ouG6OJ9qJG8)                                                                 |
+| OccuPi                           | AGCO, Ameren      | [https://github.com/rishab-t0910/agco_ameren_hackathon](https://github.com/rishab-t0910/agco_ameren_hackathon)         | [https://youtu.be/ZdkVOZDkzZo](https://youtu.be/ZdkVOZDkzZo)                                                                 |
+| ClassConnect                     | Capital One       | [https://github.com/ishaan-bhandari/ClassConnect/](https://github.com/ishaan-bhandari/ClassConnect/)                   | [https://www.youtube.com/watch?v=i7vJvzvM7Zo&feature=youtu.be](https://www.youtube.com/watch?v=i7vJvzvM7Zo&feature=youtu.be) |
+| Refugee Haven Search             | Kohler            | [https://github.com/leesunny790/asylum-countries-match](https://github.com/leesunny790/asylum-countries-match)         | [https://youtu.be/pwx9-rr2_6U](https://youtu.be/pwx9-rr2_6U)                                                                 |
+| EV Charger Location Optimization | Rivian            | [https://github.com/Siddarth2004/Rivian-R2-UIRP-Hackathon](https://github.com/Siddarth2004/Rivian-R2-UIRP-Hackathon)   | [https://www.youtube.com/watch?v=MfCeADfFM3w](https://www.youtube.com/watch?v=MfCeADfFM3w)                                   |
+| GeoGroove (COUNTRYmen)           | COUNTRY Financial | [https://github.com/ekcom/COUNTRYmen](https://github.com/ekcom/COUNTRYmen)                                             | [https://www.youtube.com/watch?v=R1Q6YFUD4QM](https://www.youtube.com/watch?v=R1Q6YFUD4QM)                                   |
+
 # Hackathon Prompt
 
 **Build something impactful and creative that leverages data in a meaningful way.**
